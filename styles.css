@@ -1,0 +1,20 @@
+/* EXTERNAL CSS */
+.motivasi {
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.logo-koda {
+  width: 500px;
+  height: 500px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.section {
+  background-color: white;
+  padding: 12px 18px;
+  margin: 16px 0;
+  border-radius: 8px;
+}
